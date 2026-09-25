@@ -1,0 +1,23 @@
+# Virtual Environments
+env/
+venv/
+.env
+.conda/
+
+# Python Cache & Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# data/raw/
+data/raw/1DATA_FIX.xlsx
+data/processed/dataset.csv
+data/evaluasi/
+data/topik/
